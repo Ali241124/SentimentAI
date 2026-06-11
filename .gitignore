@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Project specific
+sentiment-analyzer/backend/venv/
+sentiment-analyzer/frontend/node_modules/
+sentiment-analyzer/backend/results/
+sentiment-analyzer/backend/model/
+sentiment-analyzer/backend/logs/
